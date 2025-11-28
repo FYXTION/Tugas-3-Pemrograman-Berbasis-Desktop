@@ -1,0 +1,8 @@
+package Tugas3;
+
+public class ItemNotFoundException extends Exception {
+	public ItemNotFoundException(String msg) {
+		super(msg);
+	}
+
+}
